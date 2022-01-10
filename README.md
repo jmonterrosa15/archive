@@ -2,6 +2,9 @@
 
 This project was generated with Angular version 13.1.2.
 You can access it in this link: https://jmonterrosa15.github.io/archive/archive
+This app has also been deployed in Firebase and Heroku.
+Firebase: https://archive-3b87b.firebaseapp.com/
+Heroku: https://secure-lake-22110.herokuapp.com/
 
 ## Development server
 
